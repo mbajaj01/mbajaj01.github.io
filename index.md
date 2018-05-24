@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Mohit's homepage
 
 You can use the [editor on GitHub](https://github.com/mbajaj01/mbajaj01.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
